@@ -27,24 +27,24 @@
 
 # Features
 8
-### <img src="src/assets/nft-logo.jpeg" width="20" height="20" /> +900k NFT - (Polygon) 
+### <img src="nft-logo.jpeg" width="20" height="20" /> +900k NFT - (Polygon) 
 - Browse curated NFT collections including Pokémon, CryptoPunks, Bored Apes, Azuki, Doodles, and more
 - View individual NFTs with full metadata, descriptions, and OpenSea links
 - Category-based filtering and search
 - Cached collection data for fast loading
 
-### <img src="src/assets/opensea-logo.png" width="20" height="20" /> Real Time OpenSea Analytics
+### <img src="opensea-logo.png" width="20" height="20" /> Real Time OpenSea Analytics
 - Real-time OpenSea listed and sold
 - Collection analysis with contract inspection
 - Wallet analysis and portfolio overview
 
-### <img src="src/assets/ud-logo-badge.png" width="20" height="20" /> +200k Unstoppable Domains
+### <img src="ud-logo-badge.png" width="20" height="20" /> +200k Unstoppable Domains
 - Browse and explore Web3 domains (.crypto, .x, .wallet, .nft, .blockchain, etc.)
 - Premium domain discovery with keyword filtering
 - ICANN 2026 badge indicators
 - Domain ownership verification
 
-### <img src="src/assets/radio-globe-logo.png" width="20" height="20" /> Live Radio
+### <img src="radio-globe-logo.png" width="20" height="20" /> Live Radio
 - Global radio player with 30,000+ stations worldwide
 - Interactive 3D globe visualization for station discovery
 - Persistent player across all pages
