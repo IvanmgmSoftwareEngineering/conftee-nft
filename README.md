@@ -26,7 +26,7 @@
 </p>
 
 # Features
-8
+
 ### <img src="nft-logo.jpeg" width="20" height="20" /> +900k NFT - (Polygon) 
 - Browse curated NFT collections including Pokémon, CryptoPunks, Bored Apes, Azuki, Doodles, and more
 - View individual NFTs with full metadata, descriptions, and OpenSea links
