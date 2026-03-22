@@ -19,13 +19,18 @@
 
 **coNFTee** is a Web3 content explorer that aggregates NFT collections, Unstoppable Domains, OpenSea analytics, and a global live radio player into a single, beautifully designed interface. Built with performance and accessibility in mind, it supports 15+ languages and works across all devices.
 
-## 🌍 Languages
+## 🌍 Languages (+16)
 
 <p align="center">
   🇬🇧 English · 🇪🇸 Español · 🏴 Català · 🇫🇷 Français · 🇩🇪 Deutsch · 🇵🇹 Português · 🇯🇵 日本語 · 🇨🇳 中文 · 🇮🇳 हिन्दी · 🇸🇦 العربية · 🇷🇺 Русский · 🇧🇩 বাংলা · 🇮🇩 Bahasa · 🇹🇭 ไทย · 🇰🇪 Kiswahili · 🇵🇰 اردو
 </p>
 
 # Features
+
+### 💎 New Minting System Secured by PokeMetaX.io
+- Direct Integration: Full access to the PokeMetaX.io ecosystem for seamless minting of new digital assets.
+- Custom Generation: Optimized system for real-time creation, deployment, minting, and listing of NFT collections.
+- Metadata Management: Automated handling of metadata and securely hosted media assets.
 
 ### <img src="nft-logo.jpeg" width="20" height="20" /> +900k NFT - (Polygon) 
 - Browse curated NFT collections including Pokémon, CryptoPunks, Bored Apes, Azuki, Doodles, and more
@@ -61,8 +66,8 @@
 
 | | |
 |---|---|
-| **General** | [contact@conftee.xyz](mailto:contact@conftee.xyz) |
-| **Jobs** | [jobs@conftee.xyz](mailto:jobs@conftee.xyz) |
+| **General** | [contact@conftee.xyz](mailto:contact@conftee.io) |
+| **Jobs** | [jobs@conftee.xyz](mailto:jobs@conftee.io) |
 
 ---
 
