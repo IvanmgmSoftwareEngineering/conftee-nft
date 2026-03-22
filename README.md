@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="radio-cat-logo.gif" alt="coNFTee Logo" width="120" height="120" />
+  <img src="Gpb00394.png" alt="coNFTee Logo" width="120" height="120" />
 </p>
 
-<h1 align="center">coNFTee.xyz</h1>
+<h1 align="center">𝓬𝓸𝓝𝓕𝓣𝓮𝓮.𝓲𝓸</h1>
 
 <p align="center">
   <strong>A multi-platform Web3 explorer for NFT collections, domains, and live radio — all in one place.</strong>
 </p>
 
 <p align="center">
-  <a href="https://conftee.xyz">🌐 Live Site</a> · 
+  <a href="https://conftee.io">🌐 Live Site</a> · 
   <a href="#features">✨ Features</a>
 </p>
 
