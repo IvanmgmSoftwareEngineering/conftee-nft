@@ -56,9 +56,9 @@
 - Genre and country-based browsing
 
 ### 🔗 Web3 Integration
-- MetaMask and WalletConnect support via RainbowKit
+- PokeMetaX.io support via RainbowKit
 - ENS and Unstoppable Domains name resolution
-- On-chain domain verification
+- 
 
 ---
 
