@@ -66,8 +66,8 @@
 
 | | |
 |---|---|
-| **General** | [contact@conftee.xyz](mailto:contact@conftee.io) |
-| **Jobs** | [jobs@conftee.xyz](mailto:jobs@conftee.io) |
+| **General** | [contact@conftee.io](mailto:contact@conftee.io) |
+| **Jobs** | [jobs@conftee.io](mailto:jobs@conftee.io) |
 
 ---
 
